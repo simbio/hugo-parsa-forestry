@@ -1,33 +1,19 @@
 ---
-title: "About"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/author.jpg"
+title: Sobre
+date: 2019-05-14T14:46:10.000+06:00
+description: This is meta description
+image: images/author.jpg
+
 ---
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+Este é um portal dedicado à ajudar empreendedores no desafio de ter um negócio próprio e de sucesso. Nascemos com este propósito, criamos inovações que facilitem a vida do empreendedor através de: compartilhamento de conhecimento sobre práticas de comércio e gestão; criação de novos modelos e formas de se relacionar com os clientes; desenvolvimento de ferramentas tecnológicas que aumentam a eficiência e reduzem o capital necessário para o desenvolvimento do negócio.
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+Na parte de conhecimento dividimos o nosso conteúdo em 4 trilhas, com objetivos distintos:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+* Pólem: Inspiração através de exemplos, dicas e orientações com quem já descobriu o caminho;
+* Descomplica: Dicas sobre gestão e operação de negócios, de forma descomplicada;
+* Maker: Novas técnicas de gestão: Fashion Delivery, Bootstrapping, Economia Circular, Economia Colaborativa, Shop Local e muito mais;
+* Radar: Eventos e atualizações pra você ficar ligado.
 
+Contamos com o apoio e paixão da nossa equipe, parceiros e clientes para criar um ambiente que ajude quem busca realizar seus sonhos através de um negócio próprio.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Empoderamos o varejo com tecnologia e informação.
