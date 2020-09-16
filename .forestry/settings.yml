@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: Configuration
+  read_only: false
 - type: directory
   path: content
   label: Post
@@ -21,10 +25,6 @@ sections:
   label: Contato
   create: none
   match: "*"
-- type: document
-  path: config.toml
-  label: Configuration
-  read_only: true
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
