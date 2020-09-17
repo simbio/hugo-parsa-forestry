@@ -39,7 +39,7 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/fd.png
+  logo: images/IG-FD.png
   home: Início
   layout: "1"
   description: This is meta description
