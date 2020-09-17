@@ -40,15 +40,15 @@ params:
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
   logo: images/fd.png
-  home: Home
+  home: Início
   layout: "1"
   description: This is meta description
   preloader: true
   search: true
   author: Portal do Fashion Delivery
-  author_image: images/banner-img.png
+  author_image: ''
   bio: BIO Simbio
-  mobile: ''
+  mobile: 51 98491-0542
   email: contato@simbio.com.br
   address: Av João Araujo Lessa, 431 - Guaíba/RS
   contact_form_action: "#"
