@@ -60,12 +60,8 @@ params:
   social:
   - icon: ti-facebook
     URL: "#"
-  - icon: ti-twitter-alt
-    URL: "#"
   - icon: ti-linkedin
-    URL: "#"
-  - icon: ti-github
-    URL: "#"
+    URL: https://br.linkedin.com/company/simbio
 menu:
   main:
   - URL: contact
