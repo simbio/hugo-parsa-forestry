@@ -46,7 +46,7 @@ params:
   preloader: true
   search: true
   author: Portal do Fashion Delivery
-  author_image: ''
+  author_image: images/fd.png
   bio: BIO Simbio
   mobile: 51 98491-0542
   email: contato@simbio.com.br
