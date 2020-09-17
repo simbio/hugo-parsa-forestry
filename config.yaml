@@ -39,7 +39,7 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/logo.png
+  logo: images/fd.png
   home: Home
   layout: "1"
   description: This is meta description
