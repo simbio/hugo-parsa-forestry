@@ -1,7 +1,7 @@
 ---
 baseURL: "/"
-languageCode: en-us
-title: Hugo Parsa Forestry Starter
+languageCode: pt-br
+title: Portal do Fashion Delivery
 module:
   imports:
   - path: github.com/themefisher/parsa-hugo
@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: 6
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -41,20 +41,19 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: true
   search: true
-  author: Themefisher
+  author: Portal do Fashion Delivery
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
-  mobile: "+90 000 333 22"
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
+  bio: BIO Simbio
+  mobile: ''
+  email: contato@simbio.com.br
+  address: Av João Araujo Lessa, 431 - Guaíba/RS
   contact_form_action: "#"
-  google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
+  google_analitycs_id: UA-42174164-3
+  copyright: Simbio &copy; 2020
   instafeed:
     enable: true
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
@@ -71,7 +70,7 @@ menu:
   main:
   - URL: contact
     name: Contato
-    weight: 2
+    weight: "2"
   - URL: about
     name: Sobre
-    weight: 1
+    weight: "1"
