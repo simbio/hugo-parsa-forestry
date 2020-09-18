@@ -5,9 +5,7 @@ description: This is meta description
 type: post
 image: "/images/ohlala.png"
 categories: []
-tags:
-- Photos
-- Food
+tags: []
 draft: true
 
 ---
