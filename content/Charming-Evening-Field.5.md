@@ -5,7 +5,7 @@ description: 'Ao iniciar no fashion delivery, é comum se perguntar: qual a melh
   estratégia para montar a bag? Quantos itens devo enviar? Qual o mix ideal? Saiba
   mais nesse artigo'
 type: post
-image: "/images/631023-po924w-98.jpg"
+image: "/images/7196.jpg"
 categories: []
 tags: []
 draft: true
