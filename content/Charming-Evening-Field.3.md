@@ -5,9 +5,7 @@ description: ''
 type: post
 image: "/images/mala-comas.png"
 categories: []
-tags:
-- Photos
-- Food
+tags: []
 draft: true
 
 ---
