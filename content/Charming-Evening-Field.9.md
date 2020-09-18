@@ -57,7 +57,7 @@ Por fim, perguntamos para Daniele como o fashion delivery fazia diferença no [O
 
 ![Ohlala Fluxo](https://www.portalfashiondelivery.com.br/img/conteudo/ohlala_fluxo.png)
 
-### Perguntas e dúvidas frequentes sobre Fashion Delivery (FAQ)
+## Perguntas e dúvidas frequentes sobre Fashion Delivery (FAQ)
 
 **Preciso ter um site para operar com a bag de roupas Simbio·Bag no meu negócio?** Não. A captação de clientes e a divulgação das peças pode ser feita de várias formas, tanto em redes sociais quanto diretamente para os clientes já cadastrados. Além dos produtos, é importante publicar ou enviar um questionário de **estilo** para ser preenchido pelo cliente, para ajudar na curadoria das peças que irão compor a maleta. Se você já possui ou pretende mesmo assim ter um site, é possível oferecer a bag como alternativa à compra direta.
 
