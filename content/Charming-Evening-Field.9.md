@@ -4,8 +4,7 @@ date:
 description: This is meta description
 type: post
 image: "/images/ohlala.png"
-categories:
-- Food
+categories: []
 tags:
 - Photos
 - Food
