@@ -8,7 +8,6 @@ type: post
 image: "/images/7196.jpg"
 categories: []
 tags: []
-draft: true
 
 ---
 Qual a melhor estratégia para montar a bag? Quantos itens devo enviar? Qual o mix ideal?  

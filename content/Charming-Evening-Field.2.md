@@ -6,7 +6,6 @@ type: post
 image: "/images/istock_000022890952_web.jpg"
 categories: []
 tags: []
-draft: true
 
 ---
 O serviço de delivery é muito popular devido à **praticidade que oferece aos consumidores, de consumir no conforto de casa**. Nesse âmbito, essa operação tornou-se popular também no ramo de moda, traduzindo-se diretamente no e-commerce. Porém, esse serviço não atende a demanda de todos: o experimentar, tocar o tecido, pedir opinião, ver o caimento ainda são imprescindíveis para muitos consumidores. Com isso, aliando o serviço ofertado pelas sacoleiras de roupas à tecnologia capaz de escalar o processo, surge o fashion delivery, totalmente adaptado às **necessidades atuais dos consumidores de moda**.
