@@ -14,6 +14,6 @@ Na parte de conhecimento dividimos o nosso conteúdo em 4 trilhas, com objetivos
 * Maker: Novas técnicas de gestão: Fashion Delivery, Bootstrapping, Economia Circular, Economia Colaborativa, Shop Local e muito mais;
 * Radar: Eventos e atualizações pra você ficar ligado.
 
-Contamos com o apoio e paixão da nossa equipe, parceiros e clientes para criar um ambiente que ajude quem busca realizar seus sonhos através de um negócio próprio.
+Contamos com o apoio e paixão da nossa equipe, parceiros e clientes para criar um ambiente que ajude quem busca realizar seus sonhos através de um negócio próprio. 
 
 Empoderamos o varejo com tecnologia e informação.
