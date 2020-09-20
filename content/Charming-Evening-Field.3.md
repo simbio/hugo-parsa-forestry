@@ -2,7 +2,7 @@
 title: Como a marca Comas de SP entrou para o mundo do Fashion Delivery
 date: 2018-01-03T00:00:00-02:00
 description: ''
-type: featured
+type: post
 image: "/images/mala-comas.png"
 categories: []
 tags: []
