@@ -1,5 +1,5 @@
 ---
-title: 'Dicas para garantir sucesso no delivery de moda '
+title: 'Dicas de sucesso no delivery de moda '
 date: 2020-02-04T01:00:00-02:00
 description: ''
 type: featured
