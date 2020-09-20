@@ -1,8 +1,8 @@
 ---
 title: Fashion Delivery - a tendência do varejo de moda
-date: 
+date: 2019-03-06T00:00:00-03:00
 description: ''
-type: post
+type: featured
 image: "/images/woman-in-red-and-black-floral-long-sleeve-dress-holding-4004172.jpg"
 categories: []
 tags:
