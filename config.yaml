@@ -55,7 +55,7 @@ params:
   google_analitycs_id: UA-42174164-3
   copyright: Simbio &copy; 2020
   instafeed:
-    enable: false
+    enable: true
     access_token: 46f57d2da00706cb9b5df39b5a780000
   social:
   - icon: ti-facebook
