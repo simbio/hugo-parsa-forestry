@@ -1,5 +1,5 @@
 ---
-title: Fashion Delivery - a tendência do varejo de moda
+title: Fashion Delivery - a loja do futuro
 date: 2019-03-06T00:00:00-03:00
 description: ''
 type: featured
