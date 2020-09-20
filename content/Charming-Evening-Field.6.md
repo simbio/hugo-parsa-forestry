@@ -8,7 +8,6 @@ categories: []
 tags:
 - Photos
 - Food
-draft: true
 
 ---
 Se o cliente pudesse levar os produtos da sua loja para casa, antes de fazer a compra, para experimentar as peças e escolher com tranquilidade, ele certamente ficaria muito mais à vontade para tomar a **decisão de compra**, certo? Agora imagine se isso fosse feito com segurança e comodidade também para você, lojista, **sem riscos** de prejuízo por extravio ou dano aos produtos, com controle de estoque em trânsito e validação da compra a distância.
