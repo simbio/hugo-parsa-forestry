@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "10"
-paginate: "6"
+summaryLength: '10'
+paginate: '6'
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/IG-FD.png
   home: Início
-  layout: "1"
+  layout: '1'
   description: This is meta description
   preloader: true
   search: true
@@ -64,9 +64,9 @@ params:
     URL: https://br.linkedin.com/company/simbio
 menu:
   main:
-  - URL: contact
-    name: Contato
-    weight: "2"
   - URL: about
     name: Sobre
-    weight: "1"
+    weight: 1
+  - URL: contact
+    name: Contato
+    weight: 2
