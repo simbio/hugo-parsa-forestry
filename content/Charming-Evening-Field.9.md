@@ -25,6 +25,8 @@ tags:
 - moda recife
 - fashion delivery recife
 - ohlala homeshop
+- simbio
+- simbiobag
 
 ---
 Qual é o futuro do varejo hoje? Essa pergunta tem tudo a ver com a história da Daniele, nossa cliente e dona da [OhLalá!](https://ohlala.store/), empresa de fashion delivery de roupas femininas de Recife. A Daniele nos contou que sempre foi apaixonada por moda, mas o que fez com que ela entrasse no caminho do fashion delivery foi justamente uma má experiência com esse método de vendas!
