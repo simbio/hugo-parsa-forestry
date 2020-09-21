@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -41,8 +41,8 @@ params:
     - link: plugins/search/search.js
   logo: images/IG-FD.png
   home: Início
-  layout: '1'
-  description: This is meta description
+  layout: "1"
+  description: Portal com conteúdos e dicas para operações de Fashion Delivery.
   preloader: true
   search: true
   author: Portal do Fashion Delivery
@@ -66,7 +66,7 @@ menu:
   main:
   - URL: about
     name: Sobre
-    weight: 1
+    weight: "1"
   - URL: contact
     name: Contato
-    weight: 2
+    weight: "2"
