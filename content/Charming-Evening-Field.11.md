@@ -1,7 +1,7 @@
 ---
 title: Fashion Delivery versus E-Commerce
 date: 2019-07-11T00:00:00.000-03:00
-description: teste teste teste teste teste teste
+description: ''
 type: post
 image: "/images/negative-space-woman-feet-yellow-shoes-diana.jpg"
 categories: []
