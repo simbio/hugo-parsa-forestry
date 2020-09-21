@@ -1,9 +1,9 @@
 ---
 title: Fashion Delivery - a loja do futuro
-date: 2019-03-06T00:00:00-03:00
+date: 2019-03-06T00:00:00.000-03:00
 description: ''
 type: featured
-image: "/images/woman-in-red-and-black-floral-long-sleeve-dress-holding-4004172.jpg"
+image: "/images/woman-in-red-and-black-floral-long-sleeve-dress-holding-4004172-editada.png"
 categories: []
 tags:
 - Photos
