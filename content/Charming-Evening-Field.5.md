@@ -7,7 +7,23 @@ description: 'Ao iniciar no fashion delivery, é comum se perguntar: qual a melh
 type: featured
 image: "/images/7196-editada.png"
 categories: []
-tags: []
+tags:
+- fashion delivery
+- delivery de roupas
+- bag delivery
+- malinha delivery
+- envio de roupas
+- moda
+- sacola delivery
+- sacoleira
+- provar em casa
+- maleta delivery
+- roupa delivery
+- simbio
+- simbiobag
+- estilo
+- looks
+- consultoria de estilo
 
 ---
 Qual a melhor estratégia para montar a bag? Quantos itens devo enviar? Qual o mix ideal?  
