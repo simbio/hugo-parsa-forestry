@@ -1,7 +1,7 @@
 ---
 title: Sobre
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: Portal com conteúdos e dicas para operações de Fashion Delivery.
 image: images/author.jpg
 
 ---
