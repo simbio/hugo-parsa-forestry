@@ -1,9 +1,9 @@
 ---
 title: 'Dicas de sucesso no delivery de moda '
-date: 2020-02-04T01:00:00-02:00
+date: 2020-02-04T01:00:00.000-02:00
 description: ''
 type: featured
-image: "/images/istock_000022890952_web.jpg"
+image: "/images/stanislav-kondratiev-mm8ovmgnc6q-unsplash.jpg"
 categories: []
 tags: []
 
