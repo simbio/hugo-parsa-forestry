@@ -39,7 +39,7 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/teste-1.png
+  logo: images/5-teste.png
   home: Início
   layout: "1"
   description: Portal com conteúdos e dicas para operações de Fashion Delivery.
