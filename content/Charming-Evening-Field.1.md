@@ -24,6 +24,8 @@ tags:
 - maleta delivery
 - roupa delivery
 - influenciadores
+- simbio
+- simbiobag
 
 ---
 É fundamental divulgar as suas bags de uma forma atrativa para os seus clientes e levando em conta as peculiaridades desse modelo. Dessa forma, ter atenção a alguns detalhes no processo de captação de clientes para bags antes de iniciar uma campanha é a chave para o sucesso.
