@@ -1,11 +1,11 @@
 ---
 title: Como montar suas bags?
-date: 2018-02-13T00:00:00-02:00
+date: 2018-02-13T00:00:00.000-02:00
 description: 'Ao iniciar no fashion delivery, é comum se perguntar: qual a melhor
   estratégia para montar a bag? Quantos itens devo enviar? Qual o mix ideal? Saiba
   mais nesse artigo'
 type: featured
-image: "/images/7196.jpg"
+image: "/images/7196-editada.png"
 categories: []
 tags: []
 
