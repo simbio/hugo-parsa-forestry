@@ -22,7 +22,7 @@ Muitos lojistas fazem suas vendas através da loja física. Esse método de vend
 
 Por ser um serviço que ainda está se popularizando no Brasil, o fashion delivery ainda é um processo que pode gerar muitas dúvidas no cliente. Por isso, é importante pensar em alternativas para potencializar a comunicação com o cliente para que ele consiga sanar suas dúvidas pelos canais da empresa. Assim, criar materiais gráficos para redes sociais que expliquem o passo a passo desde o envio até o retorno dos produtos, qual a área de abrangência da malinha, quais os métodos de pagamento, horários de atendimento e até mesmo respondendo as dúvidas mais frequentes pode ajudar a otimizar o atendimento. Contudo, ofereça um meio de contato para conversar e sanar demais dúvidas dos seus clientes.
 
-![](https://lh3.googleusercontent.com/zwWSZZqTOq8Vm5_h732roIte6d12-oSkH35DZbQkxMjyDH9zrBYaWg81LqZUwU7nDNA7xDV9lXrs55HNf-Y1qYWsAHTqGpATqkq36xuY_1nfyKC0r50FM3UyOytQafRvyaK_sUjs =602x401)
+![](/images/woman-using-laptop-doing-a-video-call-4099096.jpg)
 
 ## 3. Atente para o tempo
 
