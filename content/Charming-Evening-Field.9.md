@@ -1,11 +1,30 @@
 ---
 title: OhLalá, como nasceu a principal marca de Fashion Delivery de Recife
-date: 2019-04-11T00:00:00-03:00
+date: 2019-04-11T00:00:00.000-03:00
 description: This is meta description
 type: post
 image: "/images/ohlala.png"
 categories: []
-tags: []
+tags:
+- fashion delivery
+- delivery de roupas
+- bag delivery
+- malinha delivery
+- envio de roupas
+- moda
+- sacola delivery
+- sacoleira
+- provar em casa
+- maleta delivery
+- roupa delivery
+- cadastro de cliente
+- formulário de cadastro
+- delivery
+- case de sucesso
+- recife
+- moda recife
+- fashion delivery recife
+- ohlala homeshop
 
 ---
 Qual é o futuro do varejo hoje? Essa pergunta tem tudo a ver com a história da Daniele, nossa cliente e dona da [OhLalá!](https://ohlala.store/), empresa de fashion delivery de roupas femininas de Recife. A Daniele nos contou que sempre foi apaixonada por moda, mas o que fez com que ela entrasse no caminho do fashion delivery foi justamente uma má experiência com esse método de vendas!
