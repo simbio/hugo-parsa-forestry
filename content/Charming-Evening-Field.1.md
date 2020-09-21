@@ -1,11 +1,11 @@
 ---
 title: Formas atrativas de divulgar suas bags
-date: 2018-10-01T00:00:00-03:00
+date: 2018-10-01T00:00:00.000-03:00
 description: Já pensou em como anunciar seu fashion delivery? Entenda mais sobre como
   divulgar as suas bags de uma forma atrativa para os seus clientes e levando em conta
   as peculiaridades desse modelo
 type: featured
-image: "/images/angela-bailey-jlo7bf4tuoy-unsplash.jpg"
+image: "/images/angela-bailey-jlo7bf4tuoy-unsplash-editada.png"
 categories: []
 tags:
 - divulgação
