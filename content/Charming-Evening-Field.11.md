@@ -12,8 +12,6 @@ tags:
 ---
 Quer trabalhar com comércio de roupas **sem abrir loja física?** O e-commerce parece a solução, não é? Então, viemos mostrar para você outra alternativa, o **Fashion Delivery**! Venha e conheça as vantagens dessa técnica e como ela pode fazer você, suas vendas e seus clientes mais felizes.
 
-![As diferenças básicas entre o Fashion Delivery e o E-commerce](https://www.portalfashiondelivery.com.br/img/conteudo/exf_sapatos.jpg)
-
 ### As diferenças básicas entre o Fashion Delivery e o E-commerce
 
 Apesar de o e-commerce ser uma revolução no comércio, o **Fashion Delivery** vem ganhando espaço no varejo de roupas e no coração dos lojistas e clientes.
