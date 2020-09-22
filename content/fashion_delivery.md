@@ -4,7 +4,8 @@ date: 2019-03-06T00:00:00.000-03:00
 description: ''
 type: featured
 image: "/images/woman-in-red-and-black-floral-long-sleeve-dress-holding-4004172-editada.png"
-categories: []
+categories:
+- Simbio·Maker
 tags:
 - fashion delivery
 - delivery de roupas

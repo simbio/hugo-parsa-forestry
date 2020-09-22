@@ -4,7 +4,8 @@ date: 2020-02-04T01:00:00.000-02:00
 description: ''
 type: featured
 image: "/images/stanislav-kondratiev-mm8ovmgnc6q-unsplash.jpg"
-categories: []
+categories:
+- Simbio·Descomplica
 tags:
 - fashion delivery
 - delivery de roupas
