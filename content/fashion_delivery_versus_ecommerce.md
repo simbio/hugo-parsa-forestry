@@ -4,7 +4,8 @@ date: 2019-07-11T00:00:00.000-03:00
 description: ''
 type: post
 image: "/images/negative-space-woman-feet-yellow-shoes-diana.jpg"
-categories: []
+categories:
+- Simbio·Maker
 tags:
 - fashion delivery
 - delivery de roupas
