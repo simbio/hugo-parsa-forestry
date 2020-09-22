@@ -3,7 +3,7 @@ baseURL: "/"
 languageCode: pt-br
 title: Portal do Fashion Delivery
 permalinks:
-  /: /"conteudo"/:title/
+  /: /"conteudo"/:filename/
 module:
   imports:
   - path: github.com/simbio/parsa-hugo
