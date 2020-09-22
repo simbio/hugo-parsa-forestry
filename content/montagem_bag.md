@@ -6,7 +6,8 @@ description: 'Ao iniciar no fashion delivery, é comum se perguntar: qual a melh
   mais nesse artigo'
 type: featured
 image: "/images/7196-editada.png"
-categories: []
+categories:
+- Simbio·Descomplica
 tags:
 - fashion delivery
 - delivery de roupas
