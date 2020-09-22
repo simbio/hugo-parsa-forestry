@@ -28,3 +28,4 @@ fields:
   description: 'type: post or featured'
 pages:
 - content/teste.md
+- content/teste2.md
