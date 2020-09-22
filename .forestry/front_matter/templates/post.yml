@@ -26,6 +26,3 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
-pages:
-- content/teste.md
-- content/teste2.md
