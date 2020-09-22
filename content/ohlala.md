@@ -4,7 +4,8 @@ date: 2019-04-11T00:00:00.000-03:00
 description: This is meta description
 type: post
 image: "/images/ohlala.png"
-categories: []
+categories:
+- Simbio·Pólem
 tags:
 - fashion delivery
 - delivery de roupas
