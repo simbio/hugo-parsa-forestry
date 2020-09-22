@@ -6,7 +6,8 @@ description: Já pensou em como anunciar seu fashion delivery? Entenda mais sobr
   as peculiaridades desse modelo
 type: featured
 image: "/images/angela-bailey-jlo7bf4tuoy-unsplash-editada.png"
-categories: []
+categories:
+- Simbio·Descomplica
 tags:
 - divulgação
 - redes sociais
