@@ -32,7 +32,7 @@ tags:
 ---
 Qual é o futuro do varejo hoje? Essa pergunta tem tudo a ver com a história da Daniele, nossa cliente e dona da [OhLalá!](https://ohlala.store/), empresa de fashion delivery de roupas femininas de Recife. A Daniele nos contou que sempre foi apaixonada por moda, mas o que fez com que ela entrasse no caminho do fashion delivery foi justamente uma má experiência com esse método de vendas!
 
-![](/images/olha-la-vantagens-1568x346.png)
+![](/images/ohlala-1.png)
 
 > **“Em algum momento eu visitei uma loja de roupas femininas e verifiquei que eles tinham um serviço parecido \[com o fashion delivery\]. Achei o máximo e solicitei uma mala. Foi uma grande decepção quando chegou. Primeiro que veio tudo em um saco meio desorganizado, segundo que não veio o que tinha pedido. Os produtos enviados não me serviram e o atendimento online (WhatsApp) foi horrível e demorado. Ainda tentei mais duas vezes e não consegui comprar nada com a loja.”**
 
@@ -44,7 +44,7 @@ Daniele ressaltou, porém, que não queria somente que as clientes ficassem sati
 
 > “hoje as clientes têm a sensação que estão recebendo um presente em casa, mesmo sem comprar nada. Elas não recebem só produtos, elas recebem o nosso cuidado e carinho.”
 
-![](/images/fluxo-ohlala.png)
+![](/images/ohlala-2.png)
 
 Resultado de tudo isso são os feedbacks positivos das clientes:
 
@@ -74,7 +74,7 @@ Por fim, perguntamos para Daniele como o fashion delivery fazia diferença no [O
 
 > “no início eu queria abrir uma loja física, mas as condições financeiras não eram favoráveis. Após estruturar a [OhLalá!](https://ohlala.store/) de maneira online, tivemos algumas oportunidades de abrir loja física, mas não aceitamos. Não aceitamos porque hoje temos o grande propósito de poupar nossas clientes do caos do trânsito, estacionamento, custo com combustível… e causar a sensação de que ela está sendo valorizada, com muita empatia e cuidado em cada detalhe do ciclo do serviço. **O Fashion Delivery não faz a diferença, nós somos o próprio Fashion Delivery**.”
 
-![Ohlala Fluxo](https://www.portalfashiondelivery.com.br/img/conteudo/ohlala_fluxo.png)
+![](/images/ohlala-3.png)
 
 ## Perguntas e dúvidas frequentes sobre Fashion Delivery (FAQ)
 
