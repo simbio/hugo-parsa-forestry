@@ -3,7 +3,7 @@ title: Como a marca Comas de SP entrou para o mundo do Fashion Delivery
 date: 2018-01-03T00:00:00.000-02:00
 description: ''
 type: post
-image: "/images/mala-da-comas.png"
+image: "/images/mala-da-comas-larg-730.jpg"
 categories:
 - Simbio·Pólem
 tags:
