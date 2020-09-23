@@ -3,7 +3,7 @@ title: OhLalá, como nasceu a principal marca de Fashion Delivery de Recife
 date: 2019-04-11T00:00:00.000-03:00
 description: This is meta description
 type: post
-image: "/images/ohlala.png"
+image: "/images/ohlala-montagem-2.jpg"
 categories:
 - Simbio·Pólem
 tags:
