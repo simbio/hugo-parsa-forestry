@@ -32,7 +32,7 @@ tags:
 ---
 Qual é o futuro do varejo hoje? Essa pergunta tem tudo a ver com a história da Daniele, nossa cliente e dona da [OhLalá!](https://ohlala.store/), empresa de fashion delivery de roupas femininas de Recife. A Daniele nos contou que sempre foi apaixonada por moda, mas o que fez com que ela entrasse no caminho do fashion delivery foi justamente uma má experiência com esse método de vendas!
 
-![Ohlala Logo](https://www.portalfashiondelivery.com.br/img/conteudo/ohlala_logo.png)
+![](/images/olha-la-vantagens-1568x346.png)
 
 > **“Em algum momento eu visitei uma loja de roupas femininas e verifiquei que eles tinham um serviço parecido \[com o fashion delivery\]. Achei o máximo e solicitei uma mala. Foi uma grande decepção quando chegou. Primeiro que veio tudo em um saco meio desorganizado, segundo que não veio o que tinha pedido. Os produtos enviados não me serviram e o atendimento online (WhatsApp) foi horrível e demorado. Ainda tentei mais duas vezes e não consegui comprar nada com a loja.”**
 
@@ -44,7 +44,7 @@ Daniele ressaltou, porém, que não queria somente que as clientes ficassem sati
 
 > “hoje as clientes têm a sensação que estão recebendo um presente em casa, mesmo sem comprar nada. Elas não recebem só produtos, elas recebem o nosso cuidado e carinho.”
 
-![Ohlala Passos](https://www.portalfashiondelivery.com.br/img/conteudo/ohlala_passos.png)
+![](/images/fluxo-ohlala.png)
 
 Resultado de tudo isso são os feedbacks positivos das clientes:
 
