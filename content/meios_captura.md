@@ -46,7 +46,9 @@ A necessidade de informações financeiras sigilosas do cliente para continuar o
 
 Divulgue suas bags nas redes sociais. No exemplo abaixo, da [Comas de SP](https://comas.com.br/), é informado que a cliente pode pedir a maleta preenchendo o link da bio na conta do Instagram. Quando o cliente **demonstra interesse** em experimentar um produto divulgado, o processo prévio de pré-autorização do cartão de crédito ocorre **sem maior resistência**, tornando a operação totalmente **segura para o lojista**.
 
-![Post de divulgação da Bag da Comas](https://www.portalfashiondelivery.com.br/img/conteudo/comasbag.png) _*Post de divulgação da Bag da Comas_
+![](/images/divulgar-1.png)
+
+_*Post de divulgação da Bag da Comas_
 
 Nas suas campanhas em redes sociais, sempre disponibilize um **formulário web** para o cliente preencher com as **informações de estilo e contato**. É este o objetivo que buscamos: precisamos dos dados para entrar em contato com o cliente em potencial para oferecer a bag.  
 Assim, entraremos em contato direto apenas com os interessados no produto.  
@@ -58,7 +60,9 @@ Outra maneira de engajar o seu público é divulgando as peças que compõem **b
 A [Stitch Fix](https://www.stitchfix.com/), empresa de fashion delivery americana, realiza posts com este foco frequentemente.  
 A ideia aqui é **prender a atenção do cliente** que se **identificar** com as peças exibidas. Depois de algumas tentativas, você irá conhecer melhor o seu público alvo e poderá **direcionar as bags pré-selecionadas** de acordo com os **gostos e preferências** dos seus clientes.
 
-![Post de divulgação da Bag da Stitch Fix](https://www.portalfashiondelivery.com.br/img/conteudo/baginsta2.png) _*No Facebook, a Stitch Fix foca na divulgação com imagens de peças das bags pré-selecionadas_
+![](/images/divulgar-2.png)
+
+ _*No Facebook, a Stitch Fix foca na divulgação com imagens de peças das bags pré-selecionadas_
 
 ## Uso de influenciadores digitais
 
