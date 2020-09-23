@@ -39,7 +39,7 @@ Apesar de o e-commerce ser uma revolução no comércio, o **Fashion Delivery** 
 
 ### Uma loja personalizada para cada cliente
 
-![Uma loja personalizada para cada cliente](https://www.portalfashiondelivery.com.br/img/conteudo/exf_arara.jpg)
+![](/images/fd-x-ecommerce-1.jpg)
 
 Ao contrário do e-commerce, no Fashion Delivery é o lojista que seleciona as roupas de acordo com o formulário de estilo preenchido anteriormente pelo cliente! Dessa forma, além de receber uma bag totalmente personalizada de acordo com o seu gosto, onde o lojista dá dicas e ajuda a montar looks completos com uma amostra de toda a sua coleção, o cliente poupa o tempo de escolher os muitos produtos que lhe foram enviados (sugerimos que você envie mais de 20 produtos) e pode experimentá-los no conforto de casa quando quiser.
 
@@ -47,7 +47,7 @@ Ao contrário do e-commerce, no Fashion Delivery é o lojista que seleciona as r
 
 ### A experiência da compra online versus offline
 
-![A experiência da compra online versus offline](https://www.portalfashiondelivery.com.br/img/conteudo/exf_pessoa.jpg)
+![](/images/fd-x-ecommerce-2.jpg)
 
 Paralelamente, o cliente sai mais satisfeito. É indubitável que há insegurança do consumidor no que se refere ao e-commerce, não somente pelas questões de frete e pagamento, mas pelo próprio produto que pode vir diferente do desejado, desde questões de caimento e tamanho até de acabamento que não ficam tão claras ao consumidor nas fotos dos sites. Nesse quesito, o Fashion Delivery novamente sai à frente, pois leva ao consumidor uma experiência física com o produto tal qual em lojas físicas - só que com a vantagem de poder experimentar no conforto de casa e fora do horário comercial, além de poder montar **looks com as peças que já tem no guarda-roupas** e contar com a opinião de familiares e amigos.
 
