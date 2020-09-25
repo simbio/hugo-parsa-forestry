@@ -3,7 +3,7 @@ title: Fashion Delivery - a loja do futuro
 date: 2019-03-06T00:00:00.000-03:00
 description: ''
 type: featured
-image: "/images/woman-in-red-and-black-floral-long-sleeve-dress-holding-4004172-editada.png"
+image: "/images/woman-in-red-and-black-floral-long-sleeve-dress-holding-4004172-editada-larg-730.jpg"
 categories:
 - Simbio·Maker
 tags:
@@ -29,7 +29,7 @@ tags:
 ---
 Se o cliente pudesse levar os produtos da sua loja para casa, antes de fazer a compra, para experimentar as peças e escolher com tranquilidade, ele certamente ficaria muito mais à vontade para tomar a **decisão de compra**, certo? Agora imagine se isso fosse feito com segurança e comodidade também para você, lojista, **sem riscos** de prejuízo por extravio ou dano aos produtos, com controle de estoque em trânsito e validação da compra a distância.
 
-![Fashion Delivery](https://www.portalfashiondelivery.com.br/img/conteudo/clothes1.gif)
+![](/images/fashion-delivery-a-tendencia-1.gif)
 
 O **fashion delivery**, ou delivery de roupas, está transformando o varejo de moda e a forma como lojistas e clientes se relacionam no mundo todo, com enormes vantagens para os dois lados: da **diminuição dos custos** operacionais à **economia de tempo**.
 
@@ -64,7 +64,6 @@ Diante disso, o fashion delivery é a **solução ideal** para diminuir custos d
 * Estoque circulando fora da loja
 * Controle de todas as etapas da operação
 
-  
 **Vantagens para o cliente**:
 
 * Receber os produtos em casa, sem precisar se deslocar até a loja ou o shopping
@@ -87,7 +86,7 @@ Através do sistema lançado pela [Simbio](https://www.simbio.com.br/), é fáci
 4. Com os itens escolhidos, a compra é efetuada pelo próprio cliente, em casa, através do link enviado pelo lojista.
 5. Agora é só combinar o momento de recolher a bag na casa do cliente, fazer a conferência dos produtos devolvidos e concluir a operação.
 
-![Operação Bag](https://www.portalfashiondelivery.com.br/img/operacao_bag.png)
+![](/images/fashion-delivery-a-tendencia-2.png)
 
 Todas estas etapas são atualizadas e monitoradas via Simbio·Bag, de modo que o lojista saberá onde está cada uma das suas maletas e cada um dos seus produtos.
 
@@ -110,7 +109,7 @@ Com os produtos e o Simbio·Bag você já pode começar a operar com fashion del
 
 É fácil e seguro colocar seu produto na casa do cliente utilizando o Simbio·Bag. Não é preciso ter loja física, e nem mesmo um site ou loja virtual, para iniciar as operações: basta ter os produtos e a maleta, enquanto o Simbio·Bag ajuda a implementar e controlar o processo. Capte novos clientes e traga os antigos de volta por meio de redes sociais, e-mail marketing e venda continuada. Com menos riscos e investimentos reduzidos é possível circular o estoque e aumentar as vendas.
 
-![Fashion Delivery](https://www.portalfashiondelivery.com.br/img/conteudo/clothes.gif)
+![](/images/14.gif)
 
 ## FAQ's
 
