@@ -3,7 +3,7 @@ baseURL: "/"
 languageCode: pt-br
 title: Portal do Fashion Delivery
 permalinks:
-  /: /"conteudo"/:filename/
+  "/": /"conteudo"/:filename/
 module:
   imports:
   - path: github.com/simbio/parsa-hugo
@@ -57,7 +57,7 @@ params:
   google_analitycs_id: UA-42174164-3
   copyright: Simbio &copy; 2020
   instafeed:
-    enable: true
+    enable: false
     access_token: IGQVJVUWQ1c3hGYXVvNDZAHQUIyZAUFETUhJSTYyRVNTem9HbXg5ODYzNGlPUl9IejJXRmNFc3J2bXkwZAmpHVG9aWS03dU9oZAGNVMEdGN0U5VDhJckhhbmpkVF9ZAWWViVHlkTGZAJU29uWFV0NW1kZAnM1SAZDZD
   social:
   - icon: ti-facebook
