@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = ""
-draft = true
 image = "/images/capa.png"
 tags = []
 title = "Cases de fashion delivery durante a crise"
