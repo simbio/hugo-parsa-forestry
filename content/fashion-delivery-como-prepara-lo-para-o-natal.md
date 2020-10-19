@@ -1,5 +1,5 @@
 +++
-categories = ["Descomplica"]
+categories = ["SIMBIO·DESCOMPLICA"]
 date = ""
 description = ""
 draft = true
