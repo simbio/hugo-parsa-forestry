@@ -5,7 +5,7 @@ description: ''
 type: featured
 image: "/images/stanislav-kondratiev-mm8ovmgnc6q-unsplash-larg-730.jpg"
 categories:
-- Simbio·Descomplica
+- SIMBIO·DESCOMPLICA
 tags:
 - fashion delivery
 - delivery de roupas
