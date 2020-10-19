@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["Descomplica"]
 date = ""
 description = ""
 draft = true
-image = ""
-tags = []
+image = "/images/1-1.png"
+tags = ["fashion delivery", "delivery de malas", "delivery de roupas", "sacoleiras", "malinha delivery", "provar em casa", "envio de roupas", "dicas", "natal", "natal 2020", "dicas para varejo", "delivery de moda", "moda delivery"]
 title = "Fashion delivery: como prepará-lo para o Natal"
 type = "post"
 
@@ -24,6 +24,8 @@ Além disso, dependendo do perfil do seu cliente, pode ser que outras pessoas mo
 ## 2. Cuidado com as peças:
 
 Infelizmente a Covid-19 ainda não deu trégua! Por isso, ainda é importante manter alguns cuidados com a higienização da mala e, principalmente, dos produtos quando são enviados e também quando retornam. Para isso, estabeleça por padrão o uso de luvas e máscara na hora de montar a bag, desfazê-la e manusear as peças. Além disso, utilize produtos e soluções sanitizantes, como o álcool a 70% ou produtos específicos como os sprays Visto.Bio, Lysoform ou Microbac. Lembre-se sempre de pesquisar a eficácia desses itens. Apesar de não haver estudos conclusivos sobre a duração do coronavírus em roupas, de acordo o virologista Flavio Fonseca, o vírus pode durar entre 72 e 96 horas em alguns tecidos. Por isso, busque deixar as peças em quarentena após o retorno da casa dos clientes. Por fim, de acordo com a Organização Mundial da Saúde (OMS) o calor de 56° C mata cerca de 10 mil unidades de coronavírus por 15 min (redução rápida), portanto, sugerimos a também utilização de vaporizadores (também conhecidos como passadeira a vapor ou steamer) de alta temperatura nas peças.
+
+![](https://media.giphy.com/media/ViIiS3xXVDoWjug4T7/giphy.gif)
 
 ## 3. Antecipe suas ações de vendas:
 
