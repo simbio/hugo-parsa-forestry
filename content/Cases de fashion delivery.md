@@ -28,19 +28,19 @@ Acesse o Instagram da marca [clicando aqui](https://www.instagram.com/lojabitsy/
 
 ![](/images/3.png)
 
-> Já na loja Clássico Closet, esse método de vendas é chamado malinha delivery. Para além da entrega somente dos produtos, o que faz sucesso é a consultoria na montagem da bag, voltada para o estilo do cliente, além do conforto. Ademais, tudo é higienizado para proteger colaboradores e clientes.
+> Na loja Clássico Closet, esse método de vendas é chamado malinha delivery. Para além da entrega somente dos produtos, o que faz sucesso é a consultoria na montagem da bag, voltada para o estilo do cliente, além do conforto. Ademais, tudo é higienizado para proteger colaboradores e clientes.
 
 Acesse o Instagram da marca [clicando aqui](https://www.instagram.com/classicoclosetbsb/).
 
 ![](/images/4.png)
 
-> Já em Curitiba, o fashion delivery foi amplamente usado pelas lojas Zero41, Dona Flor Mix, Secret Shoes e Aquarela Kids Store. Destaca-se o cuidado com a esterilização dos produtos, com vaporizador, álcool, luvas e máscaras, mas também a personalização dos pedidos.
+> O fashion delivery foi amplamente usado em Curitiba pelas lojas Zero41, Dona Flor Mix, Secret Shoes e Aquarela Kids Store. Destaca-se o cuidado com a esterilização dos produtos, com vaporizador, álcool, luvas e máscaras, mas também a personalização dos pedidos.
 
 Acesse o Instagram das marcas: [Zero41](https://www.instagram.com/zero41cwb/), [Dona Flor Mix](https://www.instagram.com/donaflormix/), [Secret Shoes](https://www.instagram.com/secretshoesoficial/), [Aquarela Kids Store](https://www.instagram.com/aquarelakidsstore/).
 
 ![](/images/5.png)
 
-> Em Belo Horizonte, a Laila Brand Shop - liderada por Laila Alves Ribeiro Campos - preza por fazer a entrega e retorno das bags sem nenhuma cobrança à cliente. Além disso, também foca na personalização e higienização. 
+> Em Belo Horizonte, a Laila Brand Shop - liderada por Laila Alves Ribeiro Campos - preza por fazer a entrega e retorno das bags sem nenhuma cobrança à cliente. Além disso, também foca na personalização e higienização.
 
 Acesse o Instagram da marca [clicando aqui](https://www.instagram.com/lailabrandshop/).
 
