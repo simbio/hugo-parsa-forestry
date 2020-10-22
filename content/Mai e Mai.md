@@ -4,7 +4,7 @@ date = 2017-05-12T03:00:00Z
 description = ""
 image = "/images/mai-mai.jpg"
 tags = []
-title = "Trabalhar com empreendedorismo tem dessas…"
+title = "MAI & MAI: inspiração para o Simbio·Bag"
 type = "post"
 
 +++
