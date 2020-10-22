@@ -23,6 +23,7 @@ tags:
 - comas
 - são paulo
 - upcycling
+draft: true
 
 ---
 Como a marca Comas de SP entrou para o mundo do Fashion Delivery
