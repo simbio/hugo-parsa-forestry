@@ -2,7 +2,6 @@
 categories = ["Simbio·Pólen"]
 date = 2017-05-12T03:00:00Z
 description = ""
-draft = true
 image = "/images/mai-mai.jpg"
 tags = []
 title = "Trabalhar com empreendedorismo tem dessas…"

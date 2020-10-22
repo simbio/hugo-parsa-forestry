@@ -2,7 +2,6 @@
 categories = ["Simbio·Pólen"]
 date = 2017-08-04T03:00:00Z
 description = ""
-draft = true
 image = "/images/mala-da-comas.png"
 tags = []
 title = "Como a marca Comas de SP entrou para o mundo do Fashion Delivery"
