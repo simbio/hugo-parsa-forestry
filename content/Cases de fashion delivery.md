@@ -1,5 +1,5 @@
 +++
-categories = ["SIMBIO·PÓLEN"]
+categories = ["Simbio·Polén"]
 date = ""
 description = ""
 image = "/images/capa.png"
