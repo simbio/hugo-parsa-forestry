@@ -5,7 +5,7 @@ description: Já pensou em como anunciar seu fashion delivery? Entenda mais sobr
   divulgar as suas bags de uma forma atrativa para os seus clientes e levando em conta
   as peculiaridades desse modelo
 type: featured
-image: "/images/angela-bailey-jlo7bf4tuoy-unsplash-editada.png"
+image: "/images/formas.png"
 categories:
 - Simbio·Descomplica
 tags:
