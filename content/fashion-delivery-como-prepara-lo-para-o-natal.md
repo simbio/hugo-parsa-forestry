@@ -1,5 +1,5 @@
 +++
-categories = ["SIMBIO·DESCOMPLICA"]
+categories = ["Simbio·Descomplica"]
 date = ""
 description = ""
 image = "/images/1-1.png"
