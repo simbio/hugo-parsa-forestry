@@ -45,7 +45,7 @@ params:
   home: Início
   layout: "1"
   description: Portal com conteúdos e dicas para operações de Fashion Delivery.
-  preloader: true
+  preloader: false
   search: true
   author: Portal do Fashion Delivery
   author_image: images/IG-FD.png
